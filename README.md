@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**edou7/edou7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Edouardo from SAYNA. It's a digital school to learn all digital jobs with a good family spirit and game day.
+I' m interested in code but I'm not a developer, sorry! 
+🌱 I'm currently learning all things about development and specifically how to learn it.
+👯 I' looking to collaborate on many projects to see all the methodoly development in the world, good luck for me!
+📫 How to reach me: edoufrancitech@gmail.com
+- 
+<br><br>
+- More about SAYNA: https://sayna.io/ br>
+- 🤔 More about me: https://www.linkedin.com/in/edou-francitech-9b96ab328
+<br><br>
+-
+--> 😄 To the pleasure of exchanging and/or collaborating togeher --
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
